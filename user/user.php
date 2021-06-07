@@ -24,7 +24,7 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="../css/bootstrap.css" rel="stylesheet" crossorigin="anonymous">
+        <link href="../assets/css/bootstrap.css" rel="stylesheet" crossorigin="anonymous">
         <title>User</title>
     </head>
     <body>
@@ -64,7 +64,7 @@
             </div>
         </div>
 
-        <script src="../js/jquery.js"></script>
+        <script src="../assets/js/jquery.js"></script>
 
         <script language="javascript">
             $(document).ready(function(){

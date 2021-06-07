@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="../css/bootstrap.css" rel="stylesheet" crossorigin="anonymous">
+        <link href="../assets/css/bootstrap.css" rel="stylesheet" crossorigin="anonymous">
         <title>Admin</title>
     </head>
 
@@ -131,7 +131,7 @@
                             echo'</td>';
 
                             echo'<td>';
-                                // button - ouvrire modifier
+                                // button - ouvrir modifier
                                 echo'<form action="admin.php" method="post" align="center">';
 
                                     echo'<input type="hidden" name="id" value="'.$value['id'].'">';                    
